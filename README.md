@@ -25,4 +25,4 @@ What resources, tools, or coding practices did you use that might be helpful in 
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 --
-
+I would show future employers the code I wrote for SslServerApplication.java for the checksum verification step, as that's the work I'm most proud of from the project. Demonstrating my ability to use a self-signed certificate for testing and development purposes might also be a good proof-of-skill, so I could
