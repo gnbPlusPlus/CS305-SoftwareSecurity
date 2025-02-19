@@ -21,8 +21,8 @@ How did you make certain the code and software application were functional and s
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 --
-
+The dependency check tool will be useful for running on future Java applications, although I will likely alter the approach to be compatible with IntelliJ rather than Eclipse. Through the coding work, I've gotten slightly more familiar with coding RESTful APIs and their endpoints, which is a skill/topic I'm sure I will encounter repeatedly. I also know to consider frameworks and how they might assist me when approaching a task, since the Spring framework was used for most coding assignments.
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 --
-I would show future employers the code I wrote for SslServerApplication.java for the checksum verification step, as that's the work I'm most proud of from the project. Demonstrating my ability to use a self-signed certificate for testing and development purposes might also be a good proof-of-skill, so I could
+I would show future employers the code I wrote for SslServerApplication.java for the checksum verification step, as that's the work I'm most proud of from the project. Demonstrating my ability to use a self-signed certificate for testing and development purposes might also be a good proof-of-skill, so I could show future employers screenshots of how I used the Java keytool to create a CER file. I would also express the problem-solving and collaboration that went into solving the NVD error for the Module 6 assignment--despite the frustration and hours of troubleshooting, I felt incredibly satisfied that, through collaboration, us students found a temporary working solution.
