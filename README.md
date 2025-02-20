@@ -1,5 +1,5 @@
 # CS305-SoftwareSecurity
-This README discusses Project One, the vulnerability assessment report for Artenus Financial.
+This README discusses Project One, the vulnerability assessment report for Artemis Financial.
 
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 --
